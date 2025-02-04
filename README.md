@@ -36,3 +36,8 @@ This project is a real-time accident prediction and warning system that analyzes
 # Clone the Repository
 https://github.com/TharushiHansika/Accident-Prediction-System.git
 
+
+# Anotated Image with Correspoding Depth Values
+
+![positive_w2_12_frame_0_jpg rf c71b99cbfaef80f0840a1cd74090d409](https://github.com/user-attachments/assets/0b52f645-e916-4f46-b3db-cabe0d75a6ac)
+
